@@ -1,7 +1,7 @@
-This is your first step.
+これは最初のステップです
 
-## Task
+## タスク
 
-This is an _example_ of creating a scenario and running a **command**
+これはシナリオを作成し **コマンド** を実行するための _例題_ です
 
 `echo 'Hello World'`{{execute}}
