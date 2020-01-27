@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "お試し Python 環境",
+  "description": "Python イジれる環境を作ってみた",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Hello Python",
       "text": "step1.md"
     }],
     "intro": {
@@ -17,10 +17,10 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Python Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "python"
   }
 }
