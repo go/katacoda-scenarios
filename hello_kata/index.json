@@ -1,28 +1,28 @@
 {
-  "title": "hello_kata",
-  "description": "This is test scenario",
+  "title": "Ansible シナリオ",
+  "description": "初心者向けの Ansible 学習シナリオです",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Ansible とは",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - IaC とは",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3 - foo",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Step 4 - bar",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Step 5 - buzz",
         "text": "step5.md"
       }
     ],
