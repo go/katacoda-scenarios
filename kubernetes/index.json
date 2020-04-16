@@ -1,0 +1,46 @@
+{
+  "title": "kubernetes",
+  "description": "Kubernetes Playground",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Kubernetes の内部コンポーネント",
+        "text": "step1.md"
+      },
+      {
+        "title": "Pod",
+        "text": "step2.md"
+      },
+      {
+        "title": "Replicaset/ReplicationController",
+        "text": "step3.md"
+      },
+      {
+        "title": "Deployment",
+        "text": "step4.md"
+      },
+      {
+        "title": "DaemonSet",
+        "text": "step5.md"
+      },
+      {
+        "title": "StatefulSet",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running"
+  }
+}
